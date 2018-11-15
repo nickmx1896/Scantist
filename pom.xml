@@ -24,10 +24,6 @@
 	
   <repositories>
     <repository>
-      <id>repo.jenkins-ci.org</id>
-      <url>https://repo.jenkins-ci.org/public/</url>
-    </repository>
-    <repository>
       <id>repo.dotcms.com</id>
       <name>repo.dotcms.com-releases</name>
       <url>http://repo.dotcms.com/artifactory/libs-release-local</url>
