@@ -24,7 +24,7 @@
 	
   <dependencies>
 	<dependency>
-	    <groupId>org.apache</groupId>
+	    <groupId>org.apache.cxf</groupId>
 	    <artifactId>cxf</artifactId>
 	    <version>2.7.0</version>
 	</dependency>
