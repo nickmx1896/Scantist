@@ -29,7 +29,6 @@
       <url>http://repo.dotcms.com/artifactory/libs-release-local</url>
     </repository>
   </repositories>	
-	
   <dependencies>
 	<dependency>
 	    <groupId>org.apache.zookeeper</groupId>
