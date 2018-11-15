@@ -31,9 +31,9 @@
   </repositories>	
   <dependencies>
 	<dependency>
-	    <groupId>com.github.junrar</groupId>
-	    <artifactId>junrar</artifactId>
-	    <version>0.7</version>
+	    <groupId>io.vertx</groupId>
+	    <artifactId>vertx-core</artifactId>
+	    <version>3.3.3</version>
 	</dependency>
   </dependencies>
 </project>
